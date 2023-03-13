@@ -1,2 +1,2 @@
 #!/bin/bash
-:3 iacta
+$(head -n 3 inacta | tail -n 1)
